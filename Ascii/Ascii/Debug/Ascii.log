@@ -1,0 +1,9 @@
+﻿  AsciiMain.cpp
+C:\Dev\CppSeries\Ascii\Ascii\AsciiMain.cpp(16,23): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\CppSeries\Ascii\Ascii\AsciiMain.cpp(49,23): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\CppSeries\Ascii\Ascii\AsciiMain.cpp(82,23): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\CppSeries\Ascii\Ascii\AsciiMain.cpp(115,23): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\CppSeries\Ascii\Ascii\AsciiMain.cpp(148,23): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\CppSeries\Ascii\Ascii\AsciiMain.cpp(181,23): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\CppSeries\Ascii\Ascii\AsciiMain.cpp(214,23): warning C4018: '<': signed/unsigned mismatch
+  Ascii.vcxproj -> C:\Dev\CppSeries\Ascii\Debug\Ascii.exe
